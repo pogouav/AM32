@@ -197,7 +197,7 @@
 #endif
 
 #ifdef POGO_L431
-#define FIRMWARE_NAME "Pogo-dshotesc"
+#define FIRMWARE_NAME "pogo.dshotesc"
 #define FILE_NAME "POGO_L431"
 #define DEAD_TIME 52
 #define HARDWARE_GROUP_L4_B
@@ -208,7 +208,7 @@
 #endif
 
 #ifdef POGO_L431_CAN
-#define FIRMWARE_NAME "Pogo-canesc"
+#define FIRMWARE_NAME "pogo.canesc"
 #define FILE_NAME "POGO_L431_CAN"
 #define DRONECAN_SUPPORT 1
 #define DEAD_TIME 150
